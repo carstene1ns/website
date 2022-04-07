@@ -1,0 +1,26 @@
+#baseURL = 'https://carsten-teibes.de/'
+# needed for multi-domain
+baseURL = '/'
+languageCode = 'de-de'
+title = 'Carstens Webseite'
+theme = "beautifulhugo"
+
+paginate = 5
+enableRobotsTXT = true
+
+enableGitInfo = true
+
+# code highlighting
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[Params]
+  dateFormat = "2. Januar 2006"
+  rss = true
+  comments = true
+  defaultTheme = "auto"
+  commit = "https://github.com/carstene1ns/website/tree/"
+
+# comments
+[Params.staticman]
+  api = "https://carsten.casa/staticman/v3/entry/github.com/carstene1ns/website/master/comments"

@@ -1,0 +1,15 @@
+[[main]]
+  name = "Blog"
+  url = ""
+  weight = 1
+
+[[main]]
+  name = "Spielewiese"
+  # real URL
+  url = "https://f4ke.de"
+  weight = 1
+
+[[main]]
+  name = "Impressum"
+  url = "/impressum/"
+  weight = 3

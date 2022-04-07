@@ -1,0 +1,15 @@
+[[main]]
+  name = "Blog"
+  url = ""
+  weight = 1
+
+[[main]]
+  name = "Spielewiese"
+  # localized URL
+  url = "/f4ke.de/"
+  weight = 1
+
+[[main]]
+  name = "Impressum"
+  url = "/impressum/"
+  weight = 3
