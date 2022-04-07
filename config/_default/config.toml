@@ -15,7 +15,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [Params]
-  dateFormat = "2. Januar 2006"
+  dateFormat = "2. Januar 2022"
   rss = true
   comments = true
   defaultTheme = "auto"
@@ -23,4 +23,4 @@ pygmentsUseClasses = true
 
 # comments
 [Params.staticman]
-  api = "https://carsten.casa/staticman/v3/entry/github.com/carstene1ns/website/master/comments"
+  api = "https://carsten.casa/staticman/v3/entry/github.com/carstene1ns/website/main/comments"
